@@ -36,6 +36,8 @@ To run the final application run Application_Key_press which will load the model
 For more details about the project,click the link below
 https://turcomat.org/index.php/turkbilmat/article/view/6811
 
+Tutorial Video Link below-
+https://youtu.be/lvGQ214P4RA
 
 
 
